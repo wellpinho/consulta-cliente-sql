@@ -6,4 +6,4 @@
 -- Crie uma consulta que retorne todos os clientes (Customers) que realizaram pedidos (Orders) contendo produtos (Products) de fornecedores (Suppliers) do Brasil
 
 -- Resposta:
-            ``` SELECT Customers FROM Orders Where Orders.Products = Suppliers.Brasil ```
+            ``` SELECT Customers FROM Orders WHERE Orders.Products = Suppliers.Brasil ```
